@@ -1,51 +1,34 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# E-BOOK SOBRE A SITUAÇÃO DAS ESCOLAS DA EDUCAÇÃO BÁSICA NA BAHIA SEGUNDO O CENSO ESCOLAR DA EDUCAÇÃO BÁSICA 2022 (MEC-INEP)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esta análise tem por objetivo conhecer a situação das escolas da educação básica a partir das variáveis dos microdados disponibilizadas no senso do INEP 2022 relacionadas à infraestrutura das escolas que responderam à pesquisa, bem como o número de estudantes matriculados, a localização e a dependência pública ou privada.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização;
+IA Generativa Leonardo AI para criar a arte visual do e-book;
+Microsoft Excel;
+Google Data Studio (Looker Studio).
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. PROCESSO DE TRATAMENTO DOS DADOS
+1.1. AMOSTRA ANALISADA
+A amostra selecionada e analisada se refere apenas aos da Educação Básica do Estado da Bahia.
+1.2. ATIVIDADES DE TRATAMENTO
+O Microsoft Excel foi utilizado para realizar o tratamentos nas variáveis relacionadas à infraestrutura das escolas da educação Básica na Bahia em 2022.
+O tratamento dos dados seguiu a seguinte sequência de operações:
+a)	Filtro da amostra na base de Microdados do INEP relacionada ao Estado da Bahia;
+b)	Seleção das variáveis referentes à infraestrutura das escolas;
+c)	Aplicação de fórmulas para unificação e simplificação de variáveis. Exemplo: Junção das escolas Municipais, Estaduais e Federais para uma única variável “Pública”;
+d)	Alteração do formato dos valores das variáveis para melhor visualização nos gráficos. Exemplo: Fórmula para alterar os dados do formato numéricos para texto;
+e)	Exclusão dos campos valores não informados pelas escolas consultadas.
+1.3. VISUALIZAÇÃO DOS DADOS
+A ferramenta utilizada para a criação do Dashboard com a base de dados tratada foi o Google Data Studio (Looker Studio). 
+Esta ferramenta possibilita a criação de relatórios no formato de Dashboard contendo gráficos e filtros a partir das variáveis presente na base de dados importada. 
+O resultado apresentado possibilita visualizar de forma sintetizada as informações sobre Total de Escolas por dependência (Públicas e Privadas), Total de Escolas por Localização (Urbana e Rural), Total de Escolas por Microrregião e por Cidades, Número de Matriculados, Número de Matriculados com mais de 18 anos (fora da idade ideal para o ensino básico), além das informações sobre a infraestrutura das escolas (Água, Banheiro, Biblioteca, Energia elétrica, Internet, Quadra coberta).
+1.5. ELABORAÇÃO DO E-BOOK
+A IA Generativa ChatGPT foi utilizada para roteirização do E-BOOk conforme as atividades realizadas no processo de análise.
+a IA Generativa Leonardo AI foi utilizada posteriormente para criar a arte visual do e-book com bbase nas imagens do Dashbord criado no Google Data Studio.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O processo simplificado de análise de dados se mostrou eficiente para trabalhar com os Microdados dsiponibilizados pelo INEP.
+E as ferramentas para a elaboração do E-BOOK demonstram que IAs Genativas podem ser poderosas aliadas na educação e na disseminação do conhecimento.
