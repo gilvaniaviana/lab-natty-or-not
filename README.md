@@ -40,6 +40,7 @@ O processo simplificado de análise de dados se mostrou eficiente para trabalhar
 E as ferramentas para a elaboração do E-BOOK demonstram que IAs Genativas podem ser poderosas aliadas na educação e na disseminação do conhecimento.
 
 LINK DO DASHBOARD: https://lookerstudio.google.com/s/ngNQn05z-as
+
 LINK DO E-BOOK: https://drive.google.com/file/d/1yipKvGrJtd2RppfJf7QPqfIxqAqiNnKG/view?usp=drive_link
 
 
