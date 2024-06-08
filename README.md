@@ -29,6 +29,7 @@ Esta ferramenta possibilita a criação de relatórios no formato de Dashboard c
 O resultado apresentado possibilita visualizar de forma sintetizada as informações sobre Total de Escolas por dependência (Públicas e Privadas), Total de Escolas por Localização (Urbana e Rural), Total de Escolas por Microrregião e por Cidades, Número de Matriculados, Número de Matriculados com mais de 18 anos (fora da idade ideal para o ensino básico), além das informações sobre a infraestrutura das escolas (Água, Banheiro, Biblioteca, Energia elétrica, Internet, Quadra coberta).
 
 1.4. ELABORAÇÃO DO E-BOOK
+
 A IA Generativa ChatGPT foi utilizada para pesquisar um roteiro de criação do E-BOOK.
 A IA Generativa Leonardo AI foi utilizada posteriormente para criar a arte visual do e-book com base na temática do estudo.
 A ferramenta https://www.online-convert.com foi utiliada para convertar arquivo texto do Microsoft Word em Epub.
