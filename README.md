@@ -32,13 +32,13 @@ O resultado apresentado possibilita visualizar de forma sintetizada as informaç
 1.4. ELABORAÇÃO DO E-BOOK
 
 A IA Generativa ChatGPT foi utilizada para pesquisar um roteiro de criação do E-BOOK.
-A IA Generativa Leonardo AI foi utilizada posteriormente para criar a arte visual do e-book com base na temática do estudo.
-A ferramenta https://www.online-convert.com foi utiliada para convertar arquivo texto do Microsoft Word em Epub.
-A versão disponibilizada para consuta nete projeto está no formato PDF.
+A IA Generativa Leonardo AI foi utilizada posteriormente para criar as ilustrações do e-book com base na temática do estudo.
+A ferramenta https://www.online-convert.com foi utilizada para convertar arquivo texto do Microsoft Word em Epub.
+A versão disponibilizada para consuta no github está no formato PDF.
 
 
-## 🚀 Resultados
-O processo simplificado de análise de dados se mostrou eficiente para trabalhar com os Microdados dsiponibilizados pelo INEP.
+## 
+O processo de análise de dados realizado se mostrou eficiente para trabalhar com os Microdados dsiponibilizados pelo INEP.
 E as ferramentas para a elaboração do E-BOOK demonstram que IAs Genativas podem ser poderosas aliadas na educação e na disseminação do conhecimento.
 
 LINK DO DASHBOARD: https://lookerstudio.google.com/s/ngNQn05z-as
