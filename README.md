@@ -11,6 +11,7 @@ Google Data Studio (Looker Studio).
 
 ## 🧐 Processo de Criação
 1. PROCESSO DE TRATAMENTO DOS DADOS
+
 1.1. AMOSTRA ANALISADA
 A amostra selecionada e analisada se refere apenas aos da Educação Básica do Estado da Bahia.
 
